@@ -15,7 +15,7 @@ Network Security and Network Engineering
     
     Advanced
     - What is a MAC Flooding attack and how would you defend against?
-    - Draw out a typical network defense architecture for an business enterprise environment that incorporates a perimeter firewall,a DMZ,       LAN segementation. 
+    - Draw out a typical network defense architecture for an business enterprise environment that incorporates a perimeter firewall,a DMZ, LAN segementation. 
       * Where would you place a SIEM and NIDS solution within this architecture? 
-      * In the event that an employee downloads malicious software onto their host machine, how would your architecture defend against this         malicious software spreading to the remainder of your network?
-     - Given a .pcp file, analyze the traffic with Wireshark and describe to us what is happening on the network from a security                  perspective?
+      * In the event that an employee downloads malicious software onto their host machine, how would your architecture defend against this malicious software spreading to the remainder of your network?
+     - Given a .pcp file, analyze the traffic with Wireshark and describe to us what is happening on the network from a security perspective?
