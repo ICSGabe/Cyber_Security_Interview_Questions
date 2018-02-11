@@ -1,3 +1,14 @@
+General Security Questions 
+   - Where do you get your security news from?
+   - What OSs and software do you run on your home network? What configurations have you set up?
+   - What do you think of social networking sites such as Facebook and LinkedIn and what are some security implications of these social media platforms?
+   - Explain risk, vulnerability and threat?
+   - How do you protect your home Wireless Access Point?
+   - What are you currently reading? 
+   - What is the difference between a vulnerability and an exploit?
+   - Explain how web certificates for HTTPS work. 
+   - What is the difference between encryption and hashing?
+
 Network Security and Network Engineering
    Beginner
     - Describe the OSI and TCP/IP model and how they work.
@@ -6,6 +17,7 @@ Network Security and Network Engineering
     - What are the differences between the TCP and UDP protocols?
     - Is ARP UDP or TCP?
     - What are the purpose of VLANs for security?
+    - How would traceroute/tracert help to discover where a breakdown of network communication is?
     
     Intermediate
     - Describe common TCP and UDP protocol vulnerabilities? (ie. no authentication, clear-text, etc)
@@ -19,3 +31,19 @@ Network Security and Network Engineering
       * Where would you place a SIEM and NIDS solution within this architecture? 
       * In the event that an employee downloads malicious software onto their host machine, how would your architecture defend against this malicious software spreading to the remainder of your network?
      - Given a .pcp file, analyze the traffic with Wireshark and describe to us what is happening on the network from a security perspective?
+
+Red Team 
+    - What is your first step in discovering live hosts on a target network?
+    - How would you compromise a “Microsoft Office Workstation” at a hotel?
+    -  What are salted hashes?
+    - How can the Three-way handshake be used in order to create a DOS attack?
+    - Describe the differences between XSS and CSRF? 
+    - CTFs? Explain methods used to penetrate defenses. 
+    
+Blue Team 
+    - What is your first step in discovering live hosts on a target network?
+    - How would you compromise a “Microsoft Office Workstation” at a hotel?    
+    - What is worse in Firewall Detection, a false negative or a false positive? And why?
+    - What is XSS, how will you mitigate it?
+    - What security mechanisms would you employ to protect your data at rest versus your data in transit? 
+    
